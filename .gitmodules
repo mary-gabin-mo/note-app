@@ -1,0 +1,3 @@
+[submodule "note-app-ui"]
+	path = note-app-ui
+	url = https://github.com/mary-gabin-mo/note-app-ui.git
